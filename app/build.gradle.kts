@@ -4,13 +4,13 @@ plugins {
 }
 
 android {
-    namespace = "com.example.anew"
+    namespace = "com.example.mdcpweek1"
     compileSdk {
         version = release(36)
     }
 
     defaultConfig {
-        applicationId = "com.example.anew"
+        applicationId = "com.example.mdcpweek1"
         minSdk = 24
         targetSdk = 36
         versionCode = 1

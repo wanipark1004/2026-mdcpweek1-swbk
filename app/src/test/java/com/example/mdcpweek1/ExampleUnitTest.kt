@@ -1,4 +1,4 @@
-package com.example.anew
+package com.example.mdcpweek1
 
 import org.junit.Test
 
